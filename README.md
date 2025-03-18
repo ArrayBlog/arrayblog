@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/array-blog-004261357/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-upadhyay-7bba17123" height="30" width="40" />
 </a>
-<a href="https://kaggle.com/vishalrsm" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalrsm" height="30" width="40" />
+<!-- <a href="https://kaggle.com/vishalrsm" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalrsm" height="30" width="40" /> -->
 </a>
 </p>
 
@@ -75,13 +75,13 @@
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalupadhyayrsm&show_icons=true&locale=en&layout=compact" alt="vishalupadhyayrsm" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrayblog&show_icons=true&locale=en&layout=compact" alt="vishalupadhyayrsm" />
 </p> 
 <!-- <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalupadhyayrsm&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
 </p> -->
 <p> &nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&" alt="vishalupadhyayrsm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrayblog&" alt="vishalupadhyayrsm" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arrayblog&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 ```
